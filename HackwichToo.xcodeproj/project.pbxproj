@@ -16,6 +16,7 @@
 		8DDC590E27B2F803003EA2DD /* HackwichTooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC590D27B2F803003EA2DD /* HackwichTooTests.swift */; };
 		8DDC591827B2F803003EA2DD /* HackwichTooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC591727B2F803003EA2DD /* HackwichTooUITests.swift */; };
 		8DDC591A27B2F803003EA2DD /* HackwichTooUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC591927B2F803003EA2DD /* HackwichTooUITestsLaunchTests.swift */; };
+		8DDC592727B2FC59003EA2DD /* ViewControllerToo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC592627B2FC59003EA2DD /* ViewControllerToo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8DDC591327B2F803003EA2DD /* HackwichTooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichTooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DDC591727B2F803003EA2DD /* HackwichTooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichTooUITests.swift; sourceTree = "<group>"; };
 		8DDC591927B2F803003EA2DD /* HackwichTooUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichTooUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8DDC592627B2FC59003EA2DD /* ViewControllerToo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerToo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8DDC58F827B2F802003EA2DD /* SceneDelegate.swift */,
 				8DDC58FA27B2F802003EA2DD /* ViewController.swift */,
 				8DDC58FC27B2F802003EA2DD /* Main.storyboard */,
+				8DDC592627B2FC59003EA2DD /* ViewControllerToo.swift */,
 				8DDC58FF27B2F803003EA2DD /* Assets.xcassets */,
 				8DDC590127B2F803003EA2DD /* LaunchScreen.storyboard */,
 				8DDC590427B2F803003EA2DD /* Info.plist */,
@@ -261,6 +264,7 @@
 				8DDC58FB27B2F802003EA2DD /* ViewController.swift in Sources */,
 				8DDC58F727B2F802003EA2DD /* AppDelegate.swift in Sources */,
 				8DDC58F927B2F802003EA2DD /* SceneDelegate.swift in Sources */,
+				8DDC592727B2FC59003EA2DD /* ViewControllerToo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
