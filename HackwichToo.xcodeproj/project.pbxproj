@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D796B6F27B337BE00E96622 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D796B6E27B337BE00E96622 /* secondViewController.swift */; };
 		8DDC58F727B2F802003EA2DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC58F627B2F802003EA2DD /* AppDelegate.swift */; };
 		8DDC58F927B2F802003EA2DD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC58F827B2F802003EA2DD /* SceneDelegate.swift */; };
 		8DDC58FB27B2F802003EA2DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDC58FA27B2F802003EA2DD /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8D796B6E27B337BE00E96622 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		8DDC58F327B2F802003EA2DD /* HackwichToo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichToo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DDC58F627B2F802003EA2DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DDC58F827B2F802003EA2DD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				8DDC58F827B2F802003EA2DD /* SceneDelegate.swift */,
 				8DDC58FA27B2F802003EA2DD /* ViewController.swift */,
 				8DDC58FC27B2F802003EA2DD /* Main.storyboard */,
+				8D796B6E27B337BE00E96622 /* secondViewController.swift */,
 				8DDC592627B2FC59003EA2DD /* ViewControllerToo.swift */,
 				8DDC58FF27B2F803003EA2DD /* Assets.xcassets */,
 				8DDC590127B2F803003EA2DD /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				8DDC58FB27B2F802003EA2DD /* ViewController.swift in Sources */,
 				8DDC58F727B2F802003EA2DD /* AppDelegate.swift in Sources */,
 				8DDC58F927B2F802003EA2DD /* SceneDelegate.swift in Sources */,
+				8D796B6F27B337BE00E96622 /* secondViewController.swift in Sources */,
 				8DDC592727B2FC59003EA2DD /* ViewControllerToo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
