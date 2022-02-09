@@ -68,17 +68,14 @@
                                     <action selector="changeColorButtonPressed:" destination="CQR-EU-uez" eventType="touchUpInside" id="Y1y-cB-C7E"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5dh-Wj-F9h">
-                                <rect key="frame" x="136" y="448" width="142" height="90"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="First Label"/>
-                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="jpa-Wh-Jgm"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="bSr-fh-lIc"/>
+                    <connections>
+                        <outlet property="firstLabel" destination="dqp-9T-MXM" id="gca-cE-0mc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ASr-v5-iBM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

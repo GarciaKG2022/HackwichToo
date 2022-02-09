@@ -9,6 +9,10 @@ import UIKit
 
 class secondViewController: UIViewController {
 
+    
+    @IBOutlet var firstLabel: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -20,6 +24,11 @@ class secondViewController: UIViewController {
         
         self.view.backgroundColor=UIColor.blue
         
+  // Part 7 On My Own
+        
+        var text: String? { firstLabel }
+        
+        var textColor: UIColor! { green }
         
     }
     
